@@ -1,5 +1,5 @@
 {
-  "name": "webpack-template-basic01",
+  "name": "WEBPACK-TEMPLATE-BASIC01",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -26,6 +26,7 @@
     "eslint-plugin-vue": "^8.4.0",
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.5.0",
+    "netlify-cli": "^8.16.1",
     "postcss": "^8.4.5",
     "postcss-loader": "^6.2.1",
     "sass": "^1.49.0",
